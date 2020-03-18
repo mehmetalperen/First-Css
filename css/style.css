@@ -1,0 +1,163 @@
+
+
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0
+  width 100%;
+  height: auto;
+
+
+}
+div {
+
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  position: relative;
+  padding-bottom: 0;
+  font-size: 3rem;
+  width: 100%;
+  height: auto;
+  margin:0;
+  color: #4a47a3;
+  font-family: 'Merienda One', cursive;
+  font-weight: bold;
+
+
+
+}
+h2 {
+
+  color: #ad62aa;
+  font-weight: bold;
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 2rem;
+  font-family: 'Noto Serif', serif;
+}
+h3 {
+
+  font-weight: bold;
+  font-family: 'Libre Baskerville', serif;
+  color: #eab9c9;
+}
+
+p {
+
+}
+
+span {
+
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.top-container {
+  background-color: #d7fffd;
+  position: relative;
+  padding-top: 100px;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.introduce-box {
+  padding-top: 150px;
+}
+
+
+#first-cloud  {
+  position: absolute;
+  right: 300px;
+
+}
+
+#mountain {
+  width: auto;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#second-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.middle-container-top {
+  background-color: #edffea;
+  padding: 40px 0;
+}
+
+.middle-container-bottom {
+  background-color: #dcedc1;
+  padding: 50px 0;
+}
+
+.skill-box {
+  width: 90vw;
+  max-width: 800px;
+  margin: auto;
+}
+
+.skill-text-box {
+  display: flex;
+  align-items: center;
+}
+
+.skill-box img {
+  margin-right: 30px;
+}
+
+.skill-box p {
+  text-align: start;
+}
+
+.bottom-container {
+  background-color: #79bac1;
+  padding: 50px 50px 50px 50px;
+
+}
+.bottom-container h2 {
+  font-weight: bold;
+}
+
+
+button {
+  background-color: gray;
+  display: inline-block;
+  border-radius: 4px;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+
+
+#profile-pic {
+  width: 20%;
+  height: auto;
+  padding-bottom: 5px;
+}
